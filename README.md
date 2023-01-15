@@ -1,7 +1,7 @@
 # Kode With Klossy
 Courses:
-1. 2022 Remote Website Development Camp
+1. 2022 Remote Website Development Camp (August)
 
-:pushpin: Final Project: Lapis Archives (collaborated with Carla Santavy and Taviene O'Sullivan)
+:pushpin: Final Project: Lapis Archives - Audrey Yoo, Carla Santavy, Taviene O'Sullivan
 
 :pushpin: Mini Project: Myers-Briggs Compatibility Project
